@@ -1,5 +1,4 @@
-# First-REST-API
-Creating my first rest api 
+# REST-API
 
 Tiene 4 caracteristicas: 
 - Protocolo http sin eestado
